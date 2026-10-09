@@ -33,7 +33,7 @@ Style: 辉注,阿里巴巴普惠体 3.0 55 Regular,80,&H00000000,&H000000FF,&H00
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 2,0:00:00.00,0:00:02.61,Title,atg1,0,0,0,,第一集：升职
-Dialogue: 0,0:00:00.00,0:00:02.61,辉注,,0,0,0,,AozoraSubs | 青空字幕组\N校对：汐琥\N字幕样式：NixieSubs
+Dialogue: 0,0:00:00.00,0:00:02.61,青空注,,0,0,0,,AozoraSubs | 青空字幕组\N校对：汐琥\N字幕样式：NixieSubs
 Dialogue: 2,0:00:00.16,0:00:02.00,EN,atg1,0,0,0,,Gold, gold, gold. Yeah, no, look.
 Dialogue: 2,0:00:00.16,0:00:02.00,CN,atg1,0,0,0,,金，金，金。哦对的对的，哦不对不对，你瞧。
 Dialogue: 2,0:00:02.36,0:00:03.82,EN,atg1,0,0,0,,I'm turning that on and off again.
@@ -66,10 +66,10 @@ Dialogue: 2,0:00:36.24,0:00:37.68,EN,atg1,0,0,0,,Oh, you didn't have to do all t
 Dialogue: 2,0:00:36.24,0:00:37.68,CN,atg1,0,0,0,,哦，你不用做这么多的。
 Dialogue: 2,0:00:38.02,0:00:39.56,EN,atg1,0,0,0,,Alex, you told me to.
 Dialogue: 2,0:00:38.02,0:00:39.56,CN,atg1,0,0,0,,Alex，是你让我做的。
-Dialogue: 2,0:00:40.62,0:00:43.32,EN,atg1,0,0,0,,BSEA, Maine, 2012, 5th, 6th, Cal M, 2013.
-Dialogue: 2,0:00:40.62,0:00:43.32,CN,atg1,0,0,0,,BSEA，缅因州，2012，第五，第六，Cal M，2013。
+Dialogue: 2,0:00:40.62,0:00:43.32,EN,atg1,0,0,0,,ESEA, Main, 2012, 5th to 6th, CAL-M 2013.
+Dialogue: 2,0:00:40.62,0:00:43.32,CN,atg1,0,0,0,,ESEA Main 2012，第五至六名，CAL-M 2013。
 Dialogue: 2,0:00:44.32,0:00:44.98,EN,atg1,0,0,0,,Top four.
-Dialogue: 2,0:00:44.32,0:00:44.98,CN,atg1,0,0,0,,前四名。
+Dialogue: 2,0:00:44.32,0:00:44.98,CN,atg1,0,0,0,,前四。
 Dialogue: 2,0:00:46.58,0:00:47.72,EN,atg1,0,0,0,,Part-time as well, you know.
 Dialogue: 2,0:00:46.58,0:00:47.72,CN,atg1,0,0,0,,而且还是兼职的，你知道。
 Dialogue: 2,0:00:48.04,0:00:48.90,EN,atg1,0,0,0,,What could have been?
@@ -327,13 +327,13 @@ Dialogue: 2,0:08:03.51,0:08:05.51,CN,atg1,0,0,0,,愚蠢！
 Dialogue: 2,0:08:14.47,0:08:16.40,EN,atg1,0,0,0,,Well, Valve ain't fixing that
 Dialogue: 2,0:08:14.47,0:08:16.40,CN,atg1,0,0,0,,好吧，Valve才不会修那个
 Dialogue: 2,0:08:23.03,0:08:25.61,EN,atg1,0,0,0,,you guys do you do the graphics?
-Dialogue: 2,0:08:23.03,0:08:25.61,CN,atg1,0,0,0,,你们……你们做画面吗？
+Dialogue: 2,0:08:23.03,0:08:25.61,CN,atg1,0,0,0,,你们……你们做印刷品吗？
 Dialogue: 2,0:08:25.61,0:08:27.74,EN,atg1,0,0,0,,you know in the corner where it says like Alex Richardson
 Dialogue: 2,0:08:25.61,0:08:27.74,CN,atg1,0,0,0,,你知道角落那里写着Alex Richardson吧
 Dialogue: 2,0:08:28.98,0:08:29.99,EN,atg1,0,0,0,,You don't?
 Dialogue: 2,0:08:28.98,0:08:29.99,CN,atg1,0,0,0,,你们不做？
-Dialogue: 2,0:08:29.99,0:08:34.82,EN,atg1,0,0,0,,well if you did wouldn't say into a room anymore would it say
-Dialogue: 2,0:08:29.99,0:08:34.82,CN,atg1,0,0,0,,如果你们做的话，就不会写"进入房间"，而是会写
+Dialogue: 2,0:08:29.99,0:08:34.82,EN,atg1,0,0,0,,well if you did wouldn't say "Interim" anymore would it say
+Dialogue: 2,0:08:29.99,0:08:34.82,CN,atg1,0,0,0,,如果你们做的话，就不会写"临时工"，而是会写
 Dialogue: 2,0:08:34.82,0:08:36.10,EN,atg1,0,0,0,,Alex Richardson
 Dialogue: 2,0:08:34.82,0:08:36.10,CN,atg1,0,0,0,,Alex Richardson
 Dialogue: 2,0:08:36.10,0:08:39.67,EN,atg1,0,0,0,,DHL regional esports innovations manager.
