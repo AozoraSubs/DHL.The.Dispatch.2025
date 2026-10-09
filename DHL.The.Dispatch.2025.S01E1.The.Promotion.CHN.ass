@@ -13,12 +13,14 @@ LayoutResY: 2160
 
 [Aegisub Project Garbage]
 Last Style Storage: 青空
+Audio File: The Promotion - The Dispatch S1 Ep. 1 [ipUVh5sKBTw].webm
+Video File: The Promotion - The Dispatch S1 Ep. 1 [ipUVh5sKBTw].webm
 Video AR Mode: 4
 Video AR Value: 1.777778
-Video Zoom Percent: 0.625000
-Scroll Position: 39
-Active Line: 67
-Video Position: 6786
+Video Zoom Percent: 0.500000
+Scroll Position: 285
+Active Line: 297
+Video Position: 15169
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -181,16 +183,16 @@ Dialogue: 2,0:04:22.61,0:04:25.61,青空英,atg1,0,0,0,,I chose this over sticke
 Dialogue: 2,0:04:22.61,0:04:25.61,青空中,atg1,0,0,0,,我为了这个放弃了贴纸钱。
 Dialogue: 2,0:04:25.61,0:04:28.61,青空英,atg1,0,0,0,,I've sacrificed everything.
 Dialogue: 2,0:04:25.61,0:04:28.61,青空中,atg1,0,0,0,,我牺牲了一切。
-Dialogue: 2,0:04:29.21,0:04:32.21,青空英,atg1,0,0,0,,Miss Ward, Three Clicks is here.
-Dialogue: 2,0:04:29.21,0:04:32.21,青空中,atg1,0,0,0,,Ward小姐，Three Clicks来了。
+Dialogue: 2,0:04:29.21,0:04:32.21,青空英,atg1,0,0,0,,Miss Ward, 3kliks is here.
+Dialogue: 2,0:04:29.21,0:04:32.21,青空中,atg1,0,0,0,,Ward小姐，3kliks来了。
 Dialogue: 2,0:04:32.21,0:04:34.21,青空英,atg1,0,0,0,,Well, why don't we send him in?
 Dialogue: 2,0:04:32.21,0:04:34.21,青空中,atg1,0,0,0,,那，我们让他进来吧？
-Dialogue: 2,0:04:34.21,0:04:36.21,青空英,atg1,0,0,0,,Three Clicks, do you?
-Dialogue: 2,0:04:34.21,0:04:36.21,青空中,atg1,0,0,0,,Three Clicks，你也是？
+Dialogue: 2,0:04:34.21,0:04:36.21,青空英,atg1,0,0,0,,3kliks, do you?
+Dialogue: 2,0:04:34.21,0:04:36.21,青空中,atg1,0,0,0,,3kliks，你认真的？
 Dialogue: 2,0:04:36.21,0:04:37.21,青空英,atg1,0,0,0,,Yeah.
 Dialogue: 2,0:04:36.21,0:04:37.21,青空中,atg1,0,0,0,,对。
-Dialogue: 2,0:04:37.21,0:04:38.21,青空英,atg1,0,0,0,,Three Clicks, please.
-Dialogue: 2,0:04:37.21,0:04:38.21,青空中,atg1,0,0,0,,Three Clicks，请进。
+Dialogue: 2,0:04:37.21,0:04:38.21,青空英,atg1,0,0,0,,3kliks, please.
+Dialogue: 2,0:04:37.21,0:04:38.21,青空中,atg1,0,0,0,,3kliks，请进。
 Dialogue: 2,0:04:38.21,0:04:39.21,青空英,atg1,0,0,0,,Good afternoon.
 Dialogue: 2,0:04:38.21,0:04:39.21,青空中,atg1,0,0,0,,下午好。
 Dialogue: 2,0:04:39.21,0:04:40.21,青空英,atg1,0,0,0,,Take a seat.
@@ -203,8 +205,8 @@ Dialogue: 2,0:04:50.30,0:04:53.30,青空英,atg1,0,0,0,,Three Clicks, why don't 
 Dialogue: 2,0:04:50.30,0:04:53.30,青空中,atg1,0,0,0,,Three Clicks，不如你先介绍一下自己？
 Dialogue: 2,0:04:58.30,0:05:01.30,青空英,atg1,0,0,0,,My name is Philip.
 Dialogue: 2,0:04:58.30,0:05:01.30,青空中,atg1,0,0,0,,我叫Philip。
-Dialogue: 2,0:05:01.30,0:05:02.30,青空英,atg1,0,0,0,,Three Clicks, Philip.
-Dialogue: 2,0:05:01.30,0:05:02.30,青空中,atg1,0,0,0,,Three Clicks，Philip。
+Dialogue: 2,0:05:01.30,0:05:02.30,青空英,atg1,0,0,0,,3kliksphilip.
+Dialogue: 2,0:05:01.30,0:05:02.30,青空中,atg1,0,0,0,,3kliksphilip
 Dialogue: 2,0:05:02.30,0:05:06.30,青空英,atg1,0,0,0,,I have almost 11 and a half years of high-level counter-strike analysis under my belt.
 Dialogue: 2,0:05:02.30,0:05:06.30,青空中,atg1,0,0,0,,我有近十一年半的高水平反恐精英分析经验。
 Dialogue: 2,0:05:06.30,0:05:14.27,青空英,atg1,0,0,0,,And I have a YouTube channel with 1.096 million subscribers.
